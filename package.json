@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "name": "crud_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeongGu/CRUD.git"
+  },
+  "keywords": [
+    "crud"
+  ],
+  "author": "dg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeongGu/CRUD/issues"
+  },
+  "homepage": "https://github.com/DeongGu/CRUD#readme",
+  "description": ""
+}
